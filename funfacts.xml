@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-09-15T07:20:03.092Z</updated>
+    <updated>2022-09-15T17:55:50.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[... that <a href="/wiki/WNYW" title="WNYW">WNEW-TV Channel 5</a> used its early-morning <i><b><a href="/wiki/Columbia_Lectures_in_International_Studies" title="Columbia Lectures in International Studies">Columbia Lectures in International Studies</a></b></i> to offset criticism of its prime-time schedule of crime show reruns?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Madeleine Swann]]></title>
-        <id>https://en.wikipedia.org/wiki/Madeleine_Swann</id>
-        <link href="https://en.wikipedia.org/wiki/Madeleine_Swann"/>
-        <updated>2022-09-15T07:19:58.725Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Madeleine_Swann" title="Madeleine Swann">Madeleine Swann</a></b><span class="nowrap">'s</span> name is a tribute to <a href="/wiki/Marcel_Proust" title="Marcel Proust">Marcel Proust</a>?]]></content>
+        <title type="html"><![CDATA[Moses Judah Hays]]></title>
+        <id>https://en.wikipedia.org/wiki/Moses_Judah_Hays</id>
+        <link href="https://en.wikipedia.org/wiki/Moses_Judah_Hays"/>
+        <updated>2022-09-15T07:19:58.731Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Moses_Judah_Hays" title="Moses Judah Hays">Moses Judah Hays</a></b> leased a block of buildings to the <a href="/wiki/Parliament_of_the_Province_of_Canada" title="Parliament of the Province of Canada">Canadian Parliament</a> after its seat was <a href="/wiki/Burning_of_the_Parliament_Buildings_in_Montreal" title="Burning of the Parliament Buildings in Montreal">burned down in 1849</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[its presence there]]></title>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[... that <a href="/wiki/Datacasting" title="Datacasting">datacasting</a> tests by <b><a href="/wiki/WMYD" title="WMYD">a Detroit TV station</a></b> included a ceremonial broadcast of an early automobile patent from 1886?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moses Judah Hays]]></title>
-        <id>https://en.wikipedia.org/wiki/Moses_Judah_Hays</id>
-        <link href="https://en.wikipedia.org/wiki/Moses_Judah_Hays"/>
-        <updated>2022-09-15T07:19:58.731Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Moses_Judah_Hays" title="Moses Judah Hays">Moses Judah Hays</a></b> leased a block of buildings to the <a href="/wiki/Parliament_of_the_Province_of_Canada" title="Parliament of the Province of Canada">Canadian Parliament</a> after its seat was <a href="/wiki/Burning_of_the_Parliament_Buildings_in_Montreal" title="Burning of the Parliament Buildings in Montreal">burned down in 1849</a>?]]></content>
+        <title type="html"><![CDATA[Madeleine Swann]]></title>
+        <id>https://en.wikipedia.org/wiki/Madeleine_Swann</id>
+        <link href="https://en.wikipedia.org/wiki/Madeleine_Swann"/>
+        <updated>2022-09-15T07:19:58.725Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Madeleine_Swann" title="Madeleine Swann">Madeleine Swann</a></b><span class="nowrap">'s</span> name is a tribute to <a href="/wiki/Marcel_Proust" title="Marcel Proust">Marcel Proust</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Michael H. v. Gerald D.]]></title>

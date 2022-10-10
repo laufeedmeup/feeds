@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-10-10T06:30:15.679Z</updated>
+    <updated>2022-10-10T18:01:14.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>https://en.wikipedia.org/wiki/The_Summer_Hikaru_Died</id>
         <link href="https://en.wikipedia.org/wiki/The_Summer_Hikaru_Died"/>
         <updated>2022-10-10T06:30:11.067Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a href="/wiki/The_Summer_Hikaru_Died" title="The Summer Hikaru Died">The Summer Hikaru Died</a></b></i> went from drawings on a Twitter account to receiving three times more print orders than copies available?]]></content>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/The_Summer_Hikaru_Died" title="The Summer Hikaru Died">The Summer Hikaru Died</a></b></i> went from drawings on a Twitter account to receiving three times more orders than copies available in its first <a href="/wiki/Print_circulation" title="Print circulation">print run</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Howie Shanks]]></title>

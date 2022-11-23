@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2022-11-23T05:37:38.628Z</updated>
+    <updated>2022-11-23T17:36:51.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/static/favicon/wikivoyage.ico</icon>
     <entry>
@@ -42,21 +42,21 @@
 	<span typeof="mw:File/Frameless"><a href="/wiki/Cooch_Behar" title="Cooch Behar"><img alt="Cooch Behar" src="//upload.wikimedia.org/wikipedia/commons/1/1e/Cooch_Behar_Palace_-_Cooch_Behar_-_West_Bengal_-_005_%28cropped2%29.jpg" decoding="async" data-file-width="1700" data-file-height="567" width="1700" height="567"></a></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hamad International Airport]]></title>
-        <id>https://en.wikivoyage.org/wiki/Hamad_International_Airport</id>
-        <link href="https://en.wikivoyage.org/wiki/Hamad_International_Airport"/>
-        <updated>2022-10-22T06:00:38.730Z</updated>
+        <title type="html"><![CDATA[Georgian cuisine]]></title>
+        <id>https://en.wikivoyage.org/wiki/Georgian_cuisine</id>
+        <link href="https://en.wikivoyage.org/wiki/Georgian_cuisine"/>
+        <updated>2022-11-23T17:36:50.819Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569">
 <div class="banner-image js-proportonal-resize">
 <p>	<span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331"></span></span>
 </p>
 	<div class="mainpage-shadowbox banner-box-2 banner-box-left" style="width:50%">
-		<h2><span class="mw-headline" id="Hamad_International_Airport"><a href="/wiki/Hamad_International_Airport" title="Hamad International Airport">Hamad International Airport</a></span></h2>
+		<h2><span class="mw-headline" id="Georgian_cuisine"><a href="/wiki/Georgian_cuisine" title="Georgian cuisine">Georgian cuisine</a></span></h2>
 		<h3><span class="mw-headline" id="Featured_travel_topics"><a href="/wiki/Previous_Featured_travel_topics" title="Previous Featured travel topics">Featured travel topics</a></span></h3>
-		<div class="quote"><a href="/wiki/Hamad_International_Airport" title="Hamad International Airport">Visiting Qatar for the FIFA world cup? Here's a quick guide on getting around Qatar's prime airport.</a></div>
+		<div class="quote"><a href="/wiki/Georgian_cuisine" title="Georgian cuisine">The cuisine of Georgia has drawn influences from the Silk Road, and is famous abroad for its quality.</a></div>
 	</div>
-<p>	<span class="nolink" typeof="mw:File/Frameless"><span title="Hamad International Airport"><img alt="Hamad International Airport" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cosmos_Hamad_Airport_feature_banner.jpg/1700px-Cosmos_Hamad_Airport_feature_banner.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cosmos_Hamad_Airport_feature_banner.jpg/2550px-Cosmos_Hamad_Airport_feature_banner.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cosmos_Hamad_Airport_feature_banner.jpg/3400px-Cosmos_Hamad_Airport_feature_banner.jpg 2x" data-file-width="4608" data-file-height="1537" width="1700" height="567"></span></span>
+<p>	<span class="nolink" typeof="mw:File/Frameless"><span title="Georgian cuisine"><img alt="Georgian cuisine" src="//upload.wikimedia.org/wikivoyage/en/thumb/8/87/Georgian_cuisine_banner_1.jpg/1700px-Georgian_cuisine_banner_1.jpg" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/8/87/Georgian_cuisine_banner_1.jpg 1.5x" data-file-width="2000" data-file-height="667" width="1700" height="567"></span></span>
 </p>
-	<span typeof="mw:File/Frameless"><a href="/wiki/Hamad_International_Airport" title="Hamad International Airport"><img alt="Hamad International Airport" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cosmos_Hamad_Airport_feature_banner.jpg/1700px-Cosmos_Hamad_Airport_feature_banner.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cosmos_Hamad_Airport_feature_banner.jpg/2550px-Cosmos_Hamad_Airport_feature_banner.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cosmos_Hamad_Airport_feature_banner.jpg/3400px-Cosmos_Hamad_Airport_feature_banner.jpg 2x" data-file-width="4608" data-file-height="1537" width="1700" height="567"></a></span></div>]]></content>
+	<span typeof="mw:File/Frameless"><a href="/wiki/Georgian_cuisine" title="Georgian cuisine"><img alt="Georgian cuisine" src="//upload.wikimedia.org/wikivoyage/en/thumb/8/87/Georgian_cuisine_banner_1.jpg/1700px-Georgian_cuisine_banner_1.jpg" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/8/87/Georgian_cuisine_banner_1.jpg 1.5x" data-file-width="2000" data-file-height="667" width="1700" height="567"></a></span></div>]]></content>
     </entry>
 </feed>

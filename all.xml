@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://laufeedmeup.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-24T05:39:09.363Z</updated>
+    <updated>2022-12-24T17:36:09.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Shahid Afridi (Wikipedia — did you know?)]]></title>
@@ -51,7 +51,7 @@
         <id>https://en.wikipedia.org/wiki/John_J._Ray_III</id>
         <link href="https://en.wikipedia.org/wiki/John_J._Ray_III"/>
         <updated>2022-12-24T05:39:04.553Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/John_J._Ray_III" title="John J. Ray III">John J. Ray III</a></b>, the chairman of <a href="/wiki/Enron" title="Enron">Enron</a> during its bankruptcy, said he had never before seen "such a complete failure of corporate controls" upon becoming CEO of cryptocurrency exchange <a href="/wiki/FTX_(company)" title="FTX (company)">FTX</a>?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/John_J._Ray_III" title="John J. Ray III">John J. Ray III</a></b>, the chairman of <a href="/wiki/Enron" title="Enron">Enron</a> during its bankruptcy, said he had never before seen "such a complete failure of corporate controls" upon becoming CEO of cryptocurrency exchange <a href="/wiki/FTX_(company)" class="mw-redirect" title="FTX (company)">FTX</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Higginson Highway (Wikipedia — did you know?)]]></title>

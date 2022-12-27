@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-12-27T05:38:15.134Z</updated>
+    <updated>2022-12-27T17:36:35.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Justly_Watson</id>
         <link href="https://en.wikipedia.org/wiki/Justly_Watson"/>
         <updated>2022-12-27T05:38:10.808Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Justly_Watson" title="Justly Watson">Justly Watson</a></b> died suddenly in 1757 from the effects of poison administered in his coffee, it was believed, by a black female servant?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Justly_Watson" title="Justly Watson">Justly Watson</a></b> died suddenly in 1757 from the effects of poison administered in his coffee, it was believed, by a servant?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CMS Enhancements]]></title>

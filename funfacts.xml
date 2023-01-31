@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-01-31T05:39:14.237Z</updated>
+    <updated>2023-01-31T17:38:07.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Assassination_of_Pawe%C5%82_Adamowicz</id>
         <link href="https://en.wikipedia.org/wiki/Assassination_of_Pawe%C5%82_Adamowicz"/>
         <updated>2023-01-31T05:39:09.671Z</updated>
-        <content type="html"><![CDATA[... that after <b><a href="/wiki/Assassination_of_Pawe%C5%82_Adamowicz" title="Assassination of Paweł Adamowicz">a stabbing attack on Paweł Adamowicz</a></b> <i>(pictured)</i>, the mayor of <a href="/wiki/Gda%C5%84sk" title="Gdańsk">Gdańsk</a>, at least 41 blood packets were used in an unsuccessful attempt to save him?]]></content>
+        <content type="html"><![CDATA[... that after <b><a href="/wiki/Assassination_of_Pawe%C5%82_Adamowicz" title="Assassination of Paweł Adamowicz">a stabbing attack on Paweł Adamowicz</a></b> <i>(pictured)</i>, the mayor of <a href="/wiki/Gda%C5%84sk" title="Gdańsk">Gdańsk</a>, at least 41 <a href="/wiki/Blood_transfusion" title="Blood transfusion">units of blood</a> were used in an unsuccessful attempt to save him?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Adam Ramage]]></title>

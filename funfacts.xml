@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-02-02T05:36:34.900Z</updated>
+    <updated>2023-02-02T17:37:43.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Fleet faction]]></title>
+        <title type="html"><![CDATA[fleet faction]]></title>
         <id>https://en.wikipedia.org/wiki/Fleet_faction</id>
         <link href="https://en.wikipedia.org/wiki/Fleet_faction"/>
         <updated>2023-02-02T05:36:30.577Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Kat%C5%8D_Kanji" title="Katō Kanji">Katō Kanji</a> <i>(pictured)</i>, leader of the <b><a href="/wiki/Fleet_faction" title="Fleet faction">Fleet faction</a></b>, shouted that "war with America starts now" after the signing of the <a href="/wiki/Washington_Naval_Treaty" title="Washington Naval Treaty">Washington Naval Treaty</a>?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Kat%C5%8D_Kanji" title="Katō Kanji">Katō Kanji</a> <i>(pictured)</i>, leader of the <b><a href="/wiki/Fleet_faction" title="Fleet faction">fleet faction</a></b>, shouted that "war with America starts now" after the signing of the <a href="/wiki/Washington_Naval_Treaty" title="Washington Naval Treaty">Washington Naval Treaty</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ashes to Ashes]]></title>

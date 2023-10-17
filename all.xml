@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://laufeedmeup.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-17T05:35:50.811Z</updated>
+    <updated>2023-10-17T17:36:30.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Reverend Thomas Sparshott (Wikipedia — did you know?)]]></title>
@@ -54,11 +54,11 @@
         <content type="html"><![CDATA[... that a landscape demo created by <a href="/wiki/Attention_to_Detail" title="Attention to Detail">Attention to Detail</a> for the <a href="/wiki/Konix_Multisystem" title="Konix Multisystem">Konix Multisystem</a> became the basis for <i><b><a href="/wiki/Cybermorph" title="Cybermorph">Cybermorph</a></b></i> on <a href="/wiki/Atari_Jaguar" title="Atari Jaguar">Atari Jaguar</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wisconsin Butter Fire (Wikipedia — did you know?)]]></title>
+        <title type="html"><![CDATA[great butter fire (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/Wisconsin_Butter_Fire</id>
         <link href="https://en.wikipedia.org/wiki/Wisconsin_Butter_Fire"/>
         <updated>2023-10-17T05:35:46.479Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Wisconsin_Butter_Fire" title="Wisconsin Butter Fire">Wisconsin Butter Fire</a></b> created a river of melted butter in Madison?]]></content>
+        <content type="html"><![CDATA[... that firefighters had to wade through deep pools of viscous, slippery butter and cheese spawned by the <b><a href="/wiki/Wisconsin_Butter_Fire" title="Wisconsin Butter Fire">great butter fire</a></b>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ankara (Wikivoyage recommendations)]]></title>

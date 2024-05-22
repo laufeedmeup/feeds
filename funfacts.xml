@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-05-22T05:37:01.758Z</updated>
+    <updated>2024-05-22T17:37:04.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,7 +59,7 @@
         <id>https://en.wikipedia.org/wiki/Liviu_Holender</id>
         <link href="https://en.wikipedia.org/wiki/Liviu_Holender"/>
         <updated>2024-05-22T05:36:56.775Z</updated>
-        <content type="html"><![CDATA[... that baritone <b><a href="/wiki/Liviu_Holender" title="Liviu Holender">Liviu Holender</a></b> chose <a href="/wiki/Lied" title="Lied">lieder</a> by five composers whose music was banned by the Nazis—<a href="/wiki/Franz_Schreker" title="Franz Schreker">Schreker</a>, <a href="/wiki/Alexander_von_Zemlinsky" title="Alexander von Zemlinsky">Zemlinsky</a>, <a href="/wiki/Gustav_Mahler" title="Gustav Mahler">Mahler</a>, <a href="/wiki/Erich_Wolfgang_Korngold" title="Erich Wolfgang Korngold">Korngold</a> and <a href="/wiki/Arnold_Schoenberg" title="Arnold Schoenberg">Schönberg</a>—for a recital at the <a href="/wiki/Oper_Frankfurt" title="Oper Frankfurt">Oper Frankfurt</a>?]]></content>
+        <content type="html"><![CDATA[... that baritone <b><a href="/wiki/Liviu_Holender" title="Liviu Holender">Liviu Holender</a></b> chose <i><a href="/wiki/Lied" title="Lied">lieder</a></i> by five composers whose music was banned by the Nazis—<a href="/wiki/Franz_Schreker" title="Franz Schreker">Schreker</a>, <a href="/wiki/Alexander_von_Zemlinsky" title="Alexander von Zemlinsky">Zemlinsky</a>, <a href="/wiki/Gustav_Mahler" title="Gustav Mahler">Mahler</a>, <a href="/wiki/Erich_Wolfgang_Korngold" title="Erich Wolfgang Korngold">Korngold</a> and <a href="/wiki/Arnold_Schoenberg" title="Arnold Schoenberg">Schönberg</a>—for a recital at the <a href="/wiki/Oper_Frankfurt" title="Oper Frankfurt">Oper Frankfurt</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Estoppey D-8]]></title>

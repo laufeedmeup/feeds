@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://laufeedmeup.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-30T05:37:34.184Z</updated>
+    <updated>2024-07-30T17:35:50.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[a Michigan TV station (Wikipedia — did you know?)]]></title>
@@ -44,7 +44,7 @@
         <id>https://en.wikipedia.org/wiki/Carlos_Bandeirense_Mirand%C3%B3polis_hoax</id>
         <link href="https://en.wikipedia.org/wiki/Carlos_Bandeirense_Mirand%C3%B3polis_hoax"/>
         <updated>2024-07-30T05:37:31.124Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> hoax <b><a href="/wiki/Carlos_Bandeirense_Mirand%C3%B3polis_hoax" title="Carlos Bandeirense Mirandópolis hoax">Carlos Bandeirense Mirandópolis</a></b> was cited in a judicial decision by the Rio de Janeiro Court of Justice?]]></content>
+        <content type="html"><![CDATA[... that the Wikipedia hoax <b><a href="/wiki/Carlos_Bandeirense_Mirand%C3%B3polis_hoax" title="Carlos Bandeirense Mirandópolis hoax">Carlos Bandeirense Mirandópolis</a></b> was cited in a judicial decision by the Rio de Janeiro Court of Justice?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Alyssa Mendoza (Wikipedia — did you know?)]]></title>

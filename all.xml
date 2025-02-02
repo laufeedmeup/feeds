@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://laufeedmeup.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-02T05:37:58.744Z</updated>
+    <updated>2025-02-02T17:36:13.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[rose barnacle (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/Tesseropora_rosea</id>
         <link href="https://en.wikipedia.org/wiki/Tesseropora_rosea"/>
         <updated>2025-02-02T05:37:55.384Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Tesseropora_rosea" title="Tesseropora rosea">rose barnacle</a></b> <i>(examples pictured)</i> only eats when the current is strong?]]></content>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Tesseropora_rosea" title="Tesseropora rosea">rose barnacle</a></b> <i>(examples pictured)</i> eats only when the current is strong?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Doris Tulifau (Wikipedia — did you know?)]]></title>
@@ -51,7 +51,7 @@
         <id>https://en.wikipedia.org/wiki/Olde_Raleigh_Distillery</id>
         <link href="https://en.wikipedia.org/wiki/Olde_Raleigh_Distillery"/>
         <updated>2025-02-02T05:37:55.398Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Olde_Raleigh_Distillery" title="Olde Raleigh Distillery">Olde Raleigh Distillery</a></b> does not reside within its namesake city?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Olde_Raleigh_Distillery" title="Olde Raleigh Distillery">Olde Raleigh Distillery</a></b> is not located within its namesake city?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Taur Ikhbeineh (Wikipedia — did you know?)]]></title>
